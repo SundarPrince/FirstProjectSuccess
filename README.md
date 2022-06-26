@@ -1,2 +1,2 @@
 # FirstProjectSuccess
-my has success
+my project has success
